@@ -2,5 +2,12 @@
     "solnetCluster": "https://ssc-dao.genesysgo.net",
     "holderMintsFile": "data/holder-mints.json",
     "scoresFile": "data/scores.json",
-    "winnersFile": "data/winners.json"
+    "winnersFile": "data/winners.json",
+    "ineligibleHolders": {
+        "WGMI Owner 1": "77z6mutuJsUpTa8nsoiUGVv4wan9u1pNbL527zbWJNLF",
+        "WGMI Owner 2": "GgPpTKg78vmzgDtP1DNn72CHAYjRdKY7AV6zgszoHCSa",
+        "TCaaB Mint Authority": "tcaabxZZb1FhaxkYiBxojhNC7PNq5QfGt8zPSSVjMJg",
+        "TCaaB Candy Machine": "9gorTuynN3tntCZvyF63ySFzk64thsxe1h3potB3Lxuc",
+        "Magic Eden": "GUfCR9mK6azb9vcpsxgXyj7XRPAKJd4KMHTTVvtncGgp"
+    }
 }

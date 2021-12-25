@@ -1,0 +1,622 @@
+{
+    "a": {
+        "Solana": {
+          "coffees": 2,
+          "beers": 0,
+          "sets": 1
+        },
+        "Nautical": {
+          "coffees": 3,
+          "beers": 0,
+          "sets": 1
+        },
+        "Sam": {
+          "coffees": 0,
+          "beers": 1,
+          "sets": 0
+        },
+        "SAMO": {
+          "coffees": 2,
+          "beers": 1,
+          "sets": 1
+        },
+        "GM-GN": {
+          "coffees": 4,
+          "beers": 0,
+          "sets": 1
+        },
+        "COPE": {
+          "coffees": 3,
+          "beers": 0,
+          "sets": 0
+        },
+        "Mango": {
+          "coffees": 2,
+          "beers": 2,
+          "sets": 1
+        },
+        "WGMI": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Bitcoin": {
+          "coffees": 1,
+          "beers": 2,
+          "sets": 0
+        },
+        "Generic": {
+          "coffees": 1,
+          "beers": 3,
+          "sets": 0
+        },
+        "Mixed": {
+          "coffees": 14,
+          "beers": 7,
+          "sets": 7
+        },
+        "Unmatched": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        }
+      },
+      "b": {
+        "Solana": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Nautical": {
+          "coffees": 1,
+          "beers": 0,
+          "sets": 0
+        },
+        "Sam": {
+          "coffees": 0,
+          "beers": 1,
+          "sets": 0
+        },
+        "SAMO": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 3
+        },
+        "GM-GN": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "COPE": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Mango": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 1
+        },
+        "WGMI": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Bitcoin": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 2
+        },
+        "Generic": {
+          "coffees": 1,
+          "beers": 0,
+          "sets": 1
+        },
+        "Mixed": {
+          "coffees": 2,
+          "beers": 1,
+          "sets": 1
+        },
+        "Unmatched": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        }
+      },
+      "c": {
+        "Solana": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Nautical": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 1
+        },
+        "Sam": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "SAMO": {
+          "coffees": 0,
+          "beers": 1,
+          "sets": 2
+        },
+        "GM-GN": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "COPE": {
+          "coffees": 1,
+          "beers": 0,
+          "sets": 0
+        },
+        "Mango": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 1
+        },
+        "WGMI": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 1
+        },
+        "Bitcoin": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Generic": {
+          "coffees": 1,
+          "beers": 0,
+          "sets": 0
+        },
+        "Mixed": {
+          "coffees": 2,
+          "beers": 1,
+          "sets": 1
+        },
+        "Unmatched": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        }
+      },
+      "d": {
+        "Solana": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Nautical": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 1
+        },
+        "Sam": {
+          "coffees": 1,
+          "beers": 0,
+          "sets": 0
+        },
+        "SAMO": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 2
+        },
+        "GM-GN": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "COPE": {
+          "coffees": 1,
+          "beers": 0,
+          "sets": 0
+        },
+        "Mango": {
+          "coffees": 0,
+          "beers": 1,
+          "sets": 1
+        },
+        "WGMI": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Bitcoin": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 1
+        },
+        "Generic": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 3
+        },
+        "Mixed": {
+          "coffees": 2,
+          "beers": 1,
+          "sets": 1
+        },
+        "Unmatched": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        }
+      },
+      "e": {
+        "Solana": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 1
+        },
+        "Nautical": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Sam": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "SAMO": {
+          "coffees": 1,
+          "beers": 1,
+          "sets": 1
+        },
+        "GM-GN": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "COPE": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Mango": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 1
+        },
+        "WGMI": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Bitcoin": {
+          "coffees": 2,
+          "beers": 0,
+          "sets": 0
+        },
+        "Generic": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 2
+        },
+        "Mixed": {
+          "coffees": 2,
+          "beers": 1,
+          "sets": 1
+        },
+        "Unmatched": {
+          "coffees": 1,
+          "beers": 0,
+          "sets": 0
+        }
+      },
+      "f": {
+        "Solana": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 2
+        },
+        "Nautical": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Sam": {
+          "coffees": 1,
+          "beers": 0,
+          "sets": 0
+        },
+        "SAMO": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 2
+        },
+        "GM-GN": {
+          "coffees": 1,
+          "beers": 0,
+          "sets": 0
+        },
+        "COPE": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Mango": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "WGMI": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 1
+        },
+        "Bitcoin": {
+          "coffees": 0,
+          "beers": 1,
+          "sets": 0
+        },
+        "Generic": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 1
+        },
+        "Mixed": {
+          "coffees": 2,
+          "beers": 1,
+          "sets": 1
+        },
+        "Unmatched": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        }
+      },
+      "g": {
+        "Solana": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 2
+        },
+        "Nautical": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Sam": {
+          "coffees": 1,
+          "beers": 0,
+          "sets": 0
+        },
+        "SAMO": {
+          "coffees": 1,
+          "beers": 0,
+          "sets": 2
+        },
+        "GM-GN": {
+          "coffees": 0,
+          "beers": 1,
+          "sets": 0
+        },
+        "COPE": {
+          "coffees": 1,
+          "beers": 0,
+          "sets": 3
+        },
+        "Mango": {
+          "coffees": 2,
+          "beers": 0,
+          "sets": 0
+        },
+        "WGMI": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Bitcoin": {
+          "coffees": 1,
+          "beers": 0,
+          "sets": 1
+        },
+        "Generic": {
+          "coffees": 0,
+          "beers": 2,
+          "sets": 0
+        },
+        "Mixed": {
+          "coffees": 6,
+          "beers": 3,
+          "sets": 3
+        },
+        "Unmatched": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        }
+      },
+      "h": {
+        "Solana": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 1
+        },
+        "Nautical": {
+          "coffees": 1,
+          "beers": 0,
+          "sets": 2
+        },
+        "Sam": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "SAMO": {
+          "coffees": 1,
+          "beers": 0,
+          "sets": 1
+        },
+        "GM-GN": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "COPE": {
+          "coffees": 0,
+          "beers": 1,
+          "sets": 0
+        },
+        "Mango": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "WGMI": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Bitcoin": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 1
+        },
+        "Generic": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Mixed": {
+          "coffees": 2,
+          "beers": 1,
+          "sets": 1
+        },
+        "Unmatched": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        }
+      },
+      "i": {
+        "Solana": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Nautical": {
+          "coffees": 1,
+          "beers": 0,
+          "sets": 0
+        },
+        "Sam": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "SAMO": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "GM-GN": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "COPE": {
+          "coffees": 0,
+          "beers": 1,
+          "sets": 0
+        },
+        "Mango": {
+          "coffees": 4,
+          "beers": 1,
+          "sets": 1
+        },
+        "WGMI": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Bitcoin": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Generic": {
+          "coffees": 1,
+          "beers": 1,
+          "sets": 0
+        },
+        "Mixed": {
+          "coffees": 4,
+          "beers": 2,
+          "sets": 2
+        },
+        "Unmatched": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        }
+      },
+      "j": {
+        "Solana": {
+          "coffees": 1,
+          "beers": 0,
+          "sets": 0
+        },
+        "Nautical": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Sam": {
+          "coffees": 1,
+          "beers": 0,
+          "sets": 0
+        },
+        "SAMO": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "GM-GN": {
+          "coffees": 1,
+          "beers": 0,
+          "sets": 0
+        },
+        "COPE": {
+          "coffees": 0,
+          "beers": 1,
+          "sets": 0
+        },
+        "Mango": {
+          "coffees": 1,
+          "beers": 1,
+          "sets": 0
+        },
+        "WGMI": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        },
+        "Bitcoin": {
+          "coffees": 0,
+          "beers": 1,
+          "sets": 0
+        },
+        "Generic": {
+          "coffees": 2,
+          "beers": 0,
+          "sets": 0
+        },
+        "Mixed": {
+          "coffees": 6,
+          "beers": 3,
+          "sets": 3
+        },
+        "Unmatched": {
+          "coffees": 0,
+          "beers": 0,
+          "sets": 0
+        }
+      }
+}

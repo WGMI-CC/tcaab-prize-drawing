@@ -1,0 +1,7 @@
+{
+    "solnetCluster": "https://psytrbhymqlkfrhudd.dev.genesysgo.net:8899/",
+    "holdersFile": "data/holder-mints.json",
+    "scoresFile": "data/scores.json",
+    "winnersFile": "data/winners.json",
+    "ineligibleHolders": {}
+}
