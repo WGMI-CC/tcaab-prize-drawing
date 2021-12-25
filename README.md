@@ -8,7 +8,7 @@ npm install
 ```
 
 ## Running the prize drawing
-The prize drawing happens in three steps. 
+The prize drawing happens in four steps. 
 
 ### The Holders Snapshot
 First, a snapshot TCaaB holders and their TCaaB mints were gathered from sol-nft.tools by visiting https://www.sol-nft.tools/get-mints and using the
@@ -38,4 +38,4 @@ For each prize in the TCaaB prize pool, this script selected a holder at random 
 When the script completed, it wrote the result to [./data/winners.json](./data/winners.json).
 
 ### Prize Distribution
-A fourth step, the distribution of prizes, was done at a later date and not recorded in this repo.
+A fourth step, the distribution of prizes, was manually. Each transaction was added to [./data/winners.json](./data/winners.json).
