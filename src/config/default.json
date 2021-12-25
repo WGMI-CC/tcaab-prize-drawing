@@ -1,0 +1,9 @@
+{
+    "metadataRequestTimeoutMs": 30000,
+    "solanaConnectionTimeoutMs": 90000,
+    "twocaabMintAuthority": "tcaabxZZb1FhaxkYiBxojhNC7PNq5QfGt8zPSSVjMJg",
+    "twocaabSymbol": "TCAAB",
+    "holderLookupBatchSize": 10,
+    "holderLookupMaxRetries": 10,
+    "holderLookupRetryWaitMs": 500
+}

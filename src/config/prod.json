@@ -1,0 +1,6 @@
+{
+    "solnetCluster": "https://ssc-dao.genesysgo.net",
+    "holderMintsFile": "data/holder-mints.json",
+    "scoresFile": "data/scores.json",
+    "winnersFile": "data/winners.json"
+}
