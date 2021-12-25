@@ -1,0 +1,3001 @@
+{
+    "scores": {
+        "Solana": {
+            "coffees": 1,
+            "beers": 0,
+            "sets": 0
+        },
+        "Bitcoin": {
+            "coffees": 3,
+            "beers": 2,
+            "sets": 1
+        },
+        "COPE": {
+            "coffees": 6,
+            "beers": 2,
+            "sets": 2
+        },
+        "GM-GN": {
+            "coffees": 3,
+            "beers": 3,
+            "sets": 1
+        },
+        "Sam": {
+            "coffees": 4,
+            "beers": 0,
+            "sets": 0
+        },
+        "SAMO": {
+            "coffees": 4,
+            "beers": 4,
+            "sets": 2
+        },
+        "Nautical": {
+            "coffees": 2,
+            "beers": 1,
+            "sets": 1
+        },
+        "Generic": {
+            "coffees": 7,
+            "beers": 2,
+            "sets": 2
+        },
+        "Mango": {
+            "coffees": 4,
+            "beers": 1,
+            "sets": 1
+        },
+        "WGMI": {
+            "coffees": 3,
+            "beers": 2,
+            "sets": 1
+        },
+        "Mixed": {
+            "coffees": 12,
+            "beers": 6,
+            "sets": 6
+        },
+        "Unmatched": {
+            "coffees": 3,
+            "beers": 0,
+            "sets": 0
+        }
+    },
+    "metas": [
+        {
+            "name": "Samo IR1683",
+            "symbol": "TCAAB",
+            "description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+            "seller_fee_basis_points": 500,
+            "external_url": "https://wgmi.cc",
+            "image": "https://www.arweave.net/S3obf0FBqiC1SW9yHwAn2f6zTENlKMxjSZ8m_0RRg5k?ext=png",
+            "attributes": [
+                {
+                    "trait_type": "Beverage",
+                    "value": "Beer"
+                },
+                {
+                    "trait_type": "Container",
+                    "value": "Growler"
+                },
+                {
+                    "trait_type": "Brand",
+                    "value": "SAMO"
+                },
+                {
+                    "trait_type": "Style",
+                    "value": "Irish Red"
+                },
+                {
+                    "trait_type": "Accessory",
+                    "value": "Shot of Whiskey"
+                },
+                {
+                    "trait_type": "Beer Top",
+                    "value": "Spilled"
+                }
+            ],
+            "collection": {
+                "name": "Two Coffees and a Beer",
+                "family": "WGMI NFT Collector's Club"
+            },
+            "properties": {
+                "category": "image",
+                "files": [
+                    {
+                        "uri": "https://www.arweave.net/S3obf0FBqiC1SW9yHwAn2f6zTENlKMxjSZ8m_0RRg5k?ext=png",
+                        "type": "image/png"
+                    }
+                ],
+                "creators": [
+                    {
+                        "address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+                        "share": 80
+                    },
+                    {
+                        "address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+                        "share": 20
+                    }
+                ]
+            }
+        },
+        {
+            "name": "WGMI A3361",
+            "symbol": "TCAAB",
+            "description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+            "seller_fee_basis_points": 500,
+            "external_url": "https://wgmi.cc",
+            "image": "https://www.arweave.net/lDw7xC2sb7ErBVAb1Ycm5fIKcAnARlAgzduzr2NmMI0?ext=png",
+            "attributes": [
+                {
+                    "trait_type": "Beverage",
+                    "value": "Coffee"
+                },
+                {
+                    "trait_type": "Container",
+                    "value": "Ceramic Mug"
+                },
+                {
+                    "trait_type": "Brand",
+                    "value": "WGMI"
+                },
+                {
+                    "trait_type": "Style",
+                    "value": "Astro"
+                },
+                {
+                    "trait_type": "Accessory",
+                    "value": "None"
+                }
+            ],
+            "collection": {
+                "name": "Two Coffees and a Beer",
+                "family": "WGMI NFT Collector's Club"
+            },
+            "properties": {
+                "category": "image",
+                "files": [
+                    {
+                        "uri": "https://www.arweave.net/lDw7xC2sb7ErBVAb1Ycm5fIKcAnARlAgzduzr2NmMI0?ext=png",
+                        "type": "image/png"
+                    }
+                ],
+                "creators": [
+                    {
+                        "address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+                        "share": 80
+                    },
+                    {
+                        "address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+                        "share": 20
+                    }
+                ]
+            }
+        },
+        {
+            "name": "GM-GN P1682",
+            "symbol": "TCAAB",
+            "description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+            "seller_fee_basis_points": 500,
+            "external_url": "https://wgmi.cc",
+            "image": "https://www.arweave.net/LZuVfycuR3czR_reNmSzuNsKj6xz5nihvhWOuqQQ1oA?ext=png",
+            "attributes": [
+                {
+                    "trait_type": "Beverage",
+                    "value": "Beer"
+                },
+                {
+                    "trait_type": "Container",
+                    "value": "Bottle"
+                },
+                {
+                    "trait_type": "Brand",
+                    "value": "GM-GN"
+                },
+                {
+                    "trait_type": "Style",
+                    "value": "Porter"
+                },
+                {
+                    "trait_type": "Accessory",
+                    "value": "Nuts"
+                },
+                {
+                    "trait_type": "Beer Top",
+                    "value": "Spilled"
+                }
+            ],
+            "collection": {
+                "name": "Two Coffees and a Beer",
+                "family": "WGMI NFT Collector's Club"
+            },
+            "properties": {
+                "category": "image",
+                "files": [
+                    {
+                        "uri": "https://www.arweave.net/LZuVfycuR3czR_reNmSzuNsKj6xz5nihvhWOuqQQ1oA?ext=png",
+                        "type": "image/png"
+                    }
+                ],
+                "creators": [
+                    {
+                        "address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+                        "share": 80
+                    },
+                    {
+                        "address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+                        "share": 20
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Bitcoin I1681",
+            "symbol": "TCAAB",
+            "description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+            "seller_fee_basis_points": 500,
+            "external_url": "https://wgmi.cc",
+            "image": "https://www.arweave.net/p1t9GQGkk3J6AOwrQ5MQ_jRUVnFsYd8hmc5QENNCCm8?ext=png",
+            "attributes": [
+                {
+                    "trait_type": "Beverage",
+                    "value": "Beer"
+                },
+                {
+                    "trait_type": "Container",
+                    "value": "Beer Can"
+                },
+                {
+                    "trait_type": "Brand",
+                    "value": "Bitcoin"
+                },
+                {
+                    "trait_type": "Style",
+                    "value": "IPA"
+                },
+                {
+                    "trait_type": "Accessory",
+                    "value": "Ash Tray"
+                },
+                {
+                    "trait_type": "Beer Top",
+                    "value": "Foaming"
+                }
+            ],
+            "collection": {
+                "name": "Two Coffees and a Beer",
+                "family": "WGMI NFT Collector's Club"
+            },
+            "properties": {
+                "category": "image",
+                "files": [
+                    {
+                        "uri": "https://www.arweave.net/p1t9GQGkk3J6AOwrQ5MQ_jRUVnFsYd8hmc5QENNCCm8?ext=png",
+                        "type": "image/png"
+                    }
+                ],
+                "creators": [
+                    {
+                        "address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+                        "share": 80
+                    },
+                    {
+                        "address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+                        "share": 20
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Mango L3364",
+            "symbol": "TCAAB",
+            "description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+            "seller_fee_basis_points": 500,
+            "external_url": "https://wgmi.cc",
+            "image": "https://www.arweave.net/JqhJYhbAoHLgNlKFoCK2BlSEPPVOjfPX2pQD5W-qbY8?ext=png",
+            "attributes": [
+                {
+                    "trait_type": "Beverage",
+                    "value": "Coffee"
+                },
+                {
+                    "trait_type": "Container",
+                    "value": "Ceramic Mug"
+                },
+                {
+                    "trait_type": "Brand",
+                    "value": "Mango"
+                },
+                {
+                    "trait_type": "Style",
+                    "value": "Lava"
+                },
+                {
+                    "trait_type": "Accessory",
+                    "value": "Creamer"
+                }
+            ],
+            "collection": {
+                "name": "Two Coffees and a Beer",
+                "family": "WGMI NFT Collector's Club"
+            },
+            "properties": {
+                "category": "image",
+                "files": [
+                    {
+                        "uri": "https://www.arweave.net/JqhJYhbAoHLgNlKFoCK2BlSEPPVOjfPX2pQD5W-qbY8?ext=png",
+                        "type": "image/png"
+                    }
+                ],
+                "creators": [
+                    {
+                        "address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+                        "share": 80
+                    },
+                    {
+                        "address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+                        "share": 20
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Mango BC3366",
+            "symbol": "TCAAB",
+            "description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+            "seller_fee_basis_points": 500,
+            "external_url": "https://wgmi.cc",
+            "image": "https://www.arweave.net/2tlQs_AOZ8eWXdlMllvsO13daRqdT-IY9kXqF-Z0ydY?ext=png",
+            "attributes": [
+                {
+                    "trait_type": "Beverage",
+                    "value": "Coffee"
+                },
+                {
+                    "trait_type": "Container",
+                    "value": "Diner Mug"
+                },
+                {
+                    "trait_type": "Brand",
+                    "value": "Mango"
+                },
+                {
+                    "trait_type": "Style",
+                    "value": "Black"
+                },
+                {
+                    "trait_type": "Accessory",
+                    "value": "Donut"
+                }
+            ],
+            "collection": {
+                "name": "Two Coffees and a Beer",
+                "family": "WGMI NFT Collector's Club"
+            },
+            "properties": {
+                "category": "image",
+                "files": [
+                    {
+                        "uri": "https://www.arweave.net/2tlQs_AOZ8eWXdlMllvsO13daRqdT-IY9kXqF-Z0ydY?ext=png",
+                        "type": "image/png"
+                    }
+                ],
+                "creators": [
+                    {
+                        "address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+                        "share": 80
+                    },
+                    {
+                        "address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+                        "share": 20
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Solana M3362",
+            "symbol": "TCAAB",
+            "description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+            "seller_fee_basis_points": 500,
+            "external_url": "https://wgmi.cc",
+            "image": "https://www.arweave.net/xXVLoD2G7fSANFpHP1hC10PBI6DdWHH1IbypVsoz-WU?ext=png",
+            "attributes": [
+                {
+                    "trait_type": "Beverage",
+                    "value": "Coffee"
+                },
+                {
+                    "trait_type": "Container",
+                    "value": "Styrofoam Cup"
+                },
+                {
+                    "trait_type": "Brand",
+                    "value": "Solana"
+                },
+                {
+                    "trait_type": "Style",
+                    "value": "Marshmallow"
+                },
+                {
+                    "trait_type": "Accessory",
+                    "value": "None"
+                }
+            ],
+            "collection": {
+                "name": "Two Coffees and a Beer",
+                "family": "WGMI NFT Collector's Club"
+            },
+            "properties": {
+                "category": "image",
+                "files": [
+                    {
+                        "uri": "https://www.arweave.net/xXVLoD2G7fSANFpHP1hC10PBI6DdWHH1IbypVsoz-WU?ext=png",
+                        "type": "image/png"
+                    }
+                ],
+                "creators": [
+                    {
+                        "address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+                        "share": 80
+                    },
+                    {
+                        "address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+                        "share": 20
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Samo IC3365",
+            "symbol": "TCAAB",
+            "description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+            "seller_fee_basis_points": 500,
+            "external_url": "https://wgmi.cc",
+            "image": "https://www.arweave.net/j0R39d_u_212W62jUV2TiI0HNNCeihDyn2YP3DaE6bY?ext=png",
+            "attributes": [
+                {
+                    "trait_type": "Beverage",
+                    "value": "Coffee"
+                },
+                {
+                    "trait_type": "Container",
+                    "value": "Ceramic Mug"
+                },
+                {
+                    "trait_type": "Brand",
+                    "value": "SAMO"
+                },
+                {
+                    "trait_type": "Style",
+                    "value": "Iced Coffee"
+                },
+                {
+                    "trait_type": "Accessory",
+                    "value": "Sugar"
+                }
+            ],
+            "collection": {
+                "name": "Two Coffees and a Beer",
+                "family": "WGMI NFT Collector's Club"
+            },
+            "properties": {
+                "category": "image",
+                "files": [
+                    {
+                        "uri": "https://www.arweave.net/j0R39d_u_212W62jUV2TiI0HNNCeihDyn2YP3DaE6bY?ext=png",
+                        "type": "image/png"
+                    }
+                ],
+                "creators": [
+                    {
+                        "address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+                        "share": 80
+                    },
+                    {
+                        "address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+                        "share": 20
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Samo WC13363",
+            "symbol": "TCAAB",
+            "description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+            "seller_fee_basis_points": 500,
+            "external_url": "https://wgmi.cc",
+            "image": "https://www.arweave.net/4fnBrVslErjapykE6PmNV8iQ9m2CHLrKwZQ3yM3fEcg?ext=png",
+            "attributes": [
+                {
+                    "trait_type": "Beverage",
+                    "value": "Coffee"
+                },
+                {
+                    "trait_type": "Container",
+                    "value": "Styrofoam Cup"
+                },
+                {
+                    "trait_type": "Brand",
+                    "value": "SAMO"
+                },
+                {
+                    "trait_type": "Style",
+                    "value": "Whipped Cream 1"
+                },
+                {
+                    "trait_type": "Accessory",
+                    "value": "Macaroon"
+                }
+            ],
+            "collection": {
+                "name": "Two Coffees and a Beer",
+                "family": "WGMI NFT Collector's Club"
+            },
+            "properties": {
+                "category": "image",
+                "files": [
+                    {
+                        "uri": "https://www.arweave.net/4fnBrVslErjapykE6PmNV8iQ9m2CHLrKwZQ3yM3fEcg?ext=png",
+                        "type": "image/png"
+                    }
+                ],
+                "creators": [
+                    {
+                        "address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+                        "share": 80
+                    },
+                    {
+                        "address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+                        "share": 20
+                    }
+                ]
+            }
+        },
+
+
+
+
+
+        {
+			"name": "Bitcoin LA2887",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/F9VAqBMNoEpuyImeyfjdHDs6ofSZaQBhkFAI0rKErYk?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Glass Mug"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Bitcoin"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Latte Art"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Macaroon"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/F9VAqBMNoEpuyImeyfjdHDs6ofSZaQBhkFAI0rKErYk?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Samo WC23014",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/ZOkBvyx62Rn8rE-n1WpZlWpHuKyNXXXT3FX54EzHO5Y?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Styrofoam Cup"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "SAMO"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Whipped Cream 2"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Sugar"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/ZOkBvyx62Rn8rE-n1WpZlWpHuKyNXXXT3FX54EzHO5Y?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Sam BC2836",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/7k6puzi-6He6uLx67vbOq979oh62ly9C6EBAUufiAHw?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Paper Cup"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Sam"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Black"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Macaroon"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/7k6puzi-6He6uLx67vbOq979oh62ly9C6EBAUufiAHw?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Generic LA2888",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/JFEFIAHFzANAZTCJKfshw9Fe6e09flCM7jeXZxYJsEg?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Glass Mug"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Generic"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Latte Art"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Macaroon"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/JFEFIAHFzANAZTCJKfshw9Fe6e09flCM7jeXZxYJsEg?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Cope SW2834",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/-tFKL5FPEi0ml4QA1lp8UP31_rLegsCwcC1KMjaerWU?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Ceramic Mug"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "COPE"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Stroop Wafel"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Macaroon"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/-tFKL5FPEi0ml4QA1lp8UP31_rLegsCwcC1KMjaerWU?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Cope L2837",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/0X2H57eqoTgcxUElmeDLP2Pf4eha_OObg6af2qOjprQ?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Glass Mug"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "COPE"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Lava"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Stirrer"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/0X2H57eqoTgcxUElmeDLP2Pf4eha_OObg6af2qOjprQ?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Mango SW2885",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/IMeuwhh5ADpYoc3ZcjvdrO1sqoDQvLJaq5glUcZGY3w?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Travel Mug"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Mango"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Stroop Wafel"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "None"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/IMeuwhh5ADpYoc3ZcjvdrO1sqoDQvLJaq5glUcZGY3w?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "WGMI IR1448",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/bSmQxhMMYKdmJrhc6Nf9xS9amSHI5iIMkYJs0E_9ZFs?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Beer"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Beer Can"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "WGMI"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Irish Red"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Nuts"
+				},
+				{
+					"trait_type": "Beer Top",
+					"value": "Sealed"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/bSmQxhMMYKdmJrhc6Nf9xS9amSHI5iIMkYJs0E_9ZFs?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Squid M2830",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/GaqrhknCSl_z15_qVXZq3pZYFA4jRCA9GNT1DBy3p-U?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Paper Cup"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Nautical"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Marshmallow"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Macaroon"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/GaqrhknCSl_z15_qVXZq3pZYFA4jRCA9GNT1DBy3p-U?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Bitcoin D1420",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/q1qB46Ev_YGYudJDjNlsPHxnMxYOAPcIvgHHuxfnbCw?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Beer"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Bottle"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Bitcoin"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Dubbel"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Nuts"
+				},
+				{
+					"trait_type": "Beer Top",
+					"value": "Open"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/q1qB46Ev_YGYudJDjNlsPHxnMxYOAPcIvgHHuxfnbCw?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Samo P1418",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/Ln-PVz5GMC8v-0QLjqLkOTQNweyJF9nA6onsy0Khj58?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Beer"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Bottle"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "SAMO"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Pilsner"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Ash Tray"
+				},
+				{
+					"trait_type": "Beer Top",
+					"value": "Open"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/Ln-PVz5GMC8v-0QLjqLkOTQNweyJF9nA6onsy0Khj58?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "GM-GN B3315",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/PGtFpNzJZDjjumv6DlQ39i32M4x_0fdPHHBmIUxZ7fA?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Turkish Coffee Pot"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "GM-GN"
+				},
+				{
+					"trait_type": "Style",
+					"value": "GM-GN"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "None"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/PGtFpNzJZDjjumv6DlQ39i32M4x_0fdPHHBmIUxZ7fA?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Cope S1657",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/eLu6dIf_koxNiUem0f8tcwWmNCarctrY6BotaQdWt5k?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Beer"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Bottle"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "COPE"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Stout"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Ash Tray"
+				},
+				{
+					"trait_type": "Beer Top",
+					"value": "Open"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/eLu6dIf_koxNiUem0f8tcwWmNCarctrY6BotaQdWt5k?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Generic SW3316",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/02GGZx0TyzXvqJeMWRsSHrGfYsOdxieMyqOa3GCCMcs?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Paper Cup"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Generic"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Stroop Wafel"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Donut"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/02GGZx0TyzXvqJeMWRsSHrGfYsOdxieMyqOa3GCCMcs?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Cope L1419",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/9TNjS9eAEMMfm8dy5OroKS07Zn8bNRivXPea0pHcGEQ?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Beer"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Beer Can"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "COPE"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Lager"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Ash Tray"
+				},
+				{
+					"trait_type": "Beer Top",
+					"value": "Sealed"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/9TNjS9eAEMMfm8dy5OroKS07Zn8bNRivXPea0pHcGEQ?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Generic M2846",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/Yu7Cro8ulQMuua2LdmAvcjD1uUA6JUskIEfJq2At7GE?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Diner Mug"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Generic"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Marshmallow"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Donut"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/Yu7Cro8ulQMuua2LdmAvcjD1uUA6JUskIEfJq2At7GE?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Mango SW3751",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/4tvDVCE8twykKGtR6909hmyLdkgoccvjMAjLlForIts?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Travel Mug"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Mango"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Stroop Wafel"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Creamer"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/4tvDVCE8twykKGtR6909hmyLdkgoccvjMAjLlForIts?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Generic P1443",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/y2FsrRYOdBKceW9Sq9GpVSt0TNn7UmSlOL_NsjJ5MnI?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Beer"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Tall Boy"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Generic"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Porter"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "None"
+				},
+				{
+					"trait_type": "Beer Top",
+					"value": "Foaming"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/y2FsrRYOdBKceW9Sq9GpVSt0TNn7UmSlOL_NsjJ5MnI?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Samo G1416",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/XXKNc2pmBs8y1Ti3UyYfgfoiqzsapOR_kZzLf0AHAtM?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Beer"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Beer Can"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "SAMO"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Gose"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Nuts"
+				},
+				{
+					"trait_type": "Beer Top",
+					"value": "Sealed"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/XXKNc2pmBs8y1Ti3UyYfgfoiqzsapOR_kZzLf0AHAtM?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Cope WC22886",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/RoMjliv1_kc69Zc2YNV5r-g84y_W2tL1aGlXMFBekxo?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Glass Mug"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "COPE"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Whipped Cream 2"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Stirrer"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/RoMjliv1_kc69Zc2YNV5r-g84y_W2tL1aGlXMFBekxo?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Generic A2839",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/2OVZkNt1h1sQSG10y3JAIMTvCpSwjcEa6PcuiSFOWS4?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Paper Cup"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Generic"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Astro"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Creamer"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/2OVZkNt1h1sQSG10y3JAIMTvCpSwjcEa6PcuiSFOWS4?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Samo D1442",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/z20GhU-Fgm09G_iEN6ASooNusvYavQ8gv-9fDAsms3A?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Beer"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Bottle"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "SAMO"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Dubbel"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "None"
+				},
+				{
+					"trait_type": "Beer Top",
+					"value": "Explode"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/z20GhU-Fgm09G_iEN6ASooNusvYavQ8gv-9fDAsms3A?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Bitcoin LA2838",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/8enYvd-5FjVrWEDZNyC31crYbOxMma-EXLgU6ISvraU?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Ceramic Mug"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Bitcoin"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Latte Art"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Macaroon"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/8enYvd-5FjVrWEDZNyC31crYbOxMma-EXLgU6ISvraU?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Sam LA2835",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/AcVpcnDMGODR1HoDDBubv8O6R0hkHHP_x0isjxaMpBA?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Paper Cup"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Sam"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Latte Art"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Stirrer"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/AcVpcnDMGODR1HoDDBubv8O6R0hkHHP_x0isjxaMpBA?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Generic M2844",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/908SncxGICjBWWRIFik_ijYh8ZOK5F-_taPFEarDe70?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Glass Mug"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Generic"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Marshmallow"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "None"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/908SncxGICjBWWRIFik_ijYh8ZOK5F-_taPFEarDe70?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Sam M2841",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/JhQuSX5pFxUna2aPGQThP7fKpp1C_D-QndwXGXC5cKo?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Styrofoam Cup"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Sam"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Marshmallow"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Spoon"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/JhQuSX5pFxUna2aPGQThP7fKpp1C_D-QndwXGXC5cKo?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Squid MC3313",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/Z7jCjjsYp01Q2lziNZJb421tiD2O9mVzd8VmlMDgYy0?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Travel Mug"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Nautical"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Milk Coffee"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Donut"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/Z7jCjjsYp01Q2lziNZJb421tiD2O9mVzd8VmlMDgYy0?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "GM-GN MC2840",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/BwUgbQ1C3UQPRDKCtDgFZidnBXgScP4tIlNJIi2TCIc?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Styrofoam Cup"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "GM-GN"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Milk Coffee"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Creamer"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/BwUgbQ1C3UQPRDKCtDgFZidnBXgScP4tIlNJIi2TCIc?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "GM-GN BA1445",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/mBtQHKRY5p9Nwad9TIv59Jzll4NWvqdWI5yGfETIQRM?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Beer"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Tall Boy"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "GM-GN"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Brown Ale"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Nuts"
+				},
+				{
+					"trait_type": "Beer Top",
+					"value": "Open"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/mBtQHKRY5p9Nwad9TIv59Jzll4NWvqdWI5yGfETIQRM?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "WGMI IR1444",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/H8HE1mB6HyqbIs7FvXJ0albBe0vEyo0WOf8ugLt_azE?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Beer"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Bottle"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "WGMI"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Irish Red"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Nuts"
+				},
+				{
+					"trait_type": "Beer Top",
+					"value": "Open"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/H8HE1mB6HyqbIs7FvXJ0albBe0vEyo0WOf8ugLt_azE?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "WGMI MC2832",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/jvXz8HPzy1IhO78UKrWlYuQEjTihukmaN2sqzJb-UYQ?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Turkish Coffee Pot"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "WGMI"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Milk Coffee"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Creamer"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/jvXz8HPzy1IhO78UKrWlYuQEjTihukmaN2sqzJb-UYQ?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Samo WC32829",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/WHaM7wxGgZZ3OccPT-xBpiIvgm4T_mAVLDgr3p-ISFg?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Styrofoam Cup"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "SAMO"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Whipped Cream 3"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Spoon"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/WHaM7wxGgZZ3OccPT-xBpiIvgm4T_mAVLDgr3p-ISFg?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "GM-GN BA1520",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/oDwxQiUA27_ZRHCPyIp2UNI1UCRuEjWx-x2xYGIVHME?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Beer"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Growler"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "GM-GN"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Brown Ale"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "None"
+				},
+				{
+					"trait_type": "Beer Top",
+					"value": "Spilled"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/oDwxQiUA27_ZRHCPyIp2UNI1UCRuEjWx-x2xYGIVHME?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Mango H1421",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/amM_PbYzwrUP2duUv_fTR6bvY_4p9ILwJ0rvPXyAUjo?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Beer"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Tall Boy"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Mango"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Hefeweisen"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Shot of Whiskey"
+				},
+				{
+					"trait_type": "Beer Top",
+					"value": "Open"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/amM_PbYzwrUP2duUv_fTR6bvY_4p9ILwJ0rvPXyAUjo?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Cope WC12831",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/cRZ96D9BoQWD0jCiDcUAMyGRnva6ObsHWF2EN7XClTs?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Styrofoam Cup"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "COPE"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Whipped Cream 1"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "None"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/cRZ96D9BoQWD0jCiDcUAMyGRnva6ObsHWF2EN7XClTs?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Generic HSA2895",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/XeZJYxpJhB0f3fQffIq7A4T7fiRkXSBW9bUuF8gglPo?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Ceramic Mug"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Generic"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Hot Springs"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Creamer"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/XeZJYxpJhB0f3fQffIq7A4T7fiRkXSBW9bUuF8gglPo?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Squid H1404",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/60FTpciSmSAkdhxUafWYE53UYOAx1SYOANLrl2RL32c?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Beer"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Beer Can"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Nautical"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Hefeweisen"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "None"
+				},
+				{
+					"trait_type": "Beer Top",
+					"value": "Open"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/60FTpciSmSAkdhxUafWYE53UYOAx1SYOANLrl2RL32c?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "WGMI WC22894",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/UZDZSJDc2-0fZOztDoabu8nwg36R8mWz_H8eARdGlYI?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Ceramic Mug"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "WGMI"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Whipped Cream 2"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Spoon"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/UZDZSJDc2-0fZOztDoabu8nwg36R8mWz_H8eARdGlYI?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "GM-GN WC33318",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/JoP6FNHx8-FfGILF6HEI6iudpx5vCrEYWI4BRY-h6KE?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Styrofoam Cup"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "GM-GN"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Whipped Cream 3"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "None"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/JoP6FNHx8-FfGILF6HEI6iudpx5vCrEYWI4BRY-h6KE?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Bitcoin L2833",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/P_4iOIApluAHhjjYzEgSvv9DnQuEzBOKx1bTkl60AcY?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Styrofoam Cup"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Bitcoin"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Lava"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Creamer"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/P_4iOIApluAHhjjYzEgSvv9DnQuEzBOKx1bTkl60AcY?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Cope B2845",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/Ig2D2dA2Smqv3kGXnS5tM4XBLqGYu7A1np9jyycGvEo?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Paper Cup"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "COPE"
+				},
+				{
+					"trait_type": "Style",
+					"value": "COPE"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Stirrer"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/Ig2D2dA2Smqv3kGXnS5tM4XBLqGYu7A1np9jyycGvEo?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Generic L1423",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/BUtnBptsSNKpnviVR_oUyXU9dumaGEY2lfHtq3pz1Qk?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Beer"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Growler"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Generic"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Lager"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Ash Tray"
+				},
+				{
+					"trait_type": "Beer Top",
+					"value": "Open"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/BUtnBptsSNKpnviVR_oUyXU9dumaGEY2lfHtq3pz1Qk?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Generic MC3314",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/6-ycY29UrOPf8O4czOqgGx7aC-1O7ACdS1A1rorU3u0?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Styrofoam Cup"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Generic"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Milk Coffee"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Sugar"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/6-ycY29UrOPf8O4czOqgGx7aC-1O7ACdS1A1rorU3u0?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Cope BC3317",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/vUcBSOa9aia5cTglDW8yOHxpytD6F3zwsz65LCtfjVk?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Paper Cup"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "COPE"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Black"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Sugar"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/vUcBSOa9aia5cTglDW8yOHxpytD6F3zwsz65LCtfjVk?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		},
+        {
+			"name": "Sam MC2884",
+			"symbol": "TCAAB",
+			"description": "Two Coffees and a Beer: A tribute to Anatoly Yakovenko",
+			"seller_fee_basis_points": 500,
+			"external_url": "https://wgmi.cc",
+			"image": "https://www.arweave.net/nI_OTP6bKzFONC0aVpnyx7VBPg5Btzf0qUEsdyAWy3M?ext=png",
+			"attributes": [
+				{
+					"trait_type": "Beverage",
+					"value": "Coffee"
+				},
+				{
+					"trait_type": "Container",
+					"value": "Turkish Coffee Pot"
+				},
+				{
+					"trait_type": "Brand",
+					"value": "Sam"
+				},
+				{
+					"trait_type": "Style",
+					"value": "Milk Coffee"
+				},
+				{
+					"trait_type": "Accessory",
+					"value": "Macaroon"
+				}
+			],
+			"collection": {
+				"name": "Two Coffees and a Beer",
+				"family": "WGMI NFT Collector's Club"
+			},
+			"properties": {
+				"category": "image",
+				"files": [
+					{
+						"uri": "https://www.arweave.net/nI_OTP6bKzFONC0aVpnyx7VBPg5Btzf0qUEsdyAWy3M?ext=png",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "9vrkgXWySQWe5okaVZSG5ALvhH4D67WRfV3PU8GzMmSs",
+						"share": 80
+					},
+					{
+						"address": "3YVeBfhAaXAG4WabhWfKaFgbBT8i1GQseszzf6zf9drx",
+						"share": 20
+					}
+				]
+			}
+		}
+    ]
+}
