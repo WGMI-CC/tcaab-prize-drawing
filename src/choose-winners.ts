@@ -20,7 +20,7 @@ function main(): void {
 export function chooseWinners(config: AppConfig, holderEntries: {[tier: string]: string[]}): WinnerSpec[] {
 
     // shuffle entries randomly so we can easily pop off winners 
-    //  without worrying about repeat selection
+    //  without the chance of selecting the same entry twice
     for (const tier of Object.keys(holderEntries)) {
         shuffleInPlace(holderEntries[tier]);
     }
