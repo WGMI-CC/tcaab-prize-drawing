@@ -5,5 +5,24 @@
     "twocaabSymbol": "TCAAB",
     "holderLookupBatchSize": 10,
     "holderLookupMaxRetries": 10,
-    "holderLookupRetryWaitMs": 500
+    "holderLookupRetryWaitMs": 500,
+    "prizes": {
+        "Top": [{"name": "SSC", "count": 1}, {"name": "Duderivative", "count": 1}, {"name": "Metaplex Kit", "count": 1}, {"name": "Bonus Sam", "count": 1}, {"name": "sWaGMI", "count": 1}],
+        "Middle": [{"name": "Thugbirdz", "count": 1}, {"name": "Groms", "count": 1}, {"name": "Skyline", "count": 1}, {"name": "Test Guys", "count": 1}, {"name": "Hellcats", "count": 6}, {"name": "sWaGMI", "count": 1}],
+        "Lower": [{"name": "Gecko", "count": 1}, {"name": "Solstead", "count": 1}, {"name": "Chicken Tribe", "count": 1}, {"name": "Hellcats", "count": 8}, {"name": "sWaGMI", "count": 1}],
+        "Mixed": [{"name": "Penguin", "count": 1}, {"name": "Solstein", "count": 1}, {"name": "Wabbit", "count": 1}, {"name": "Hot Spring Ape", "count": 1}, {"name": "BitCaptain", "count": 1}, {"name": "sWaGMI", "count": 1}]
+    },
+    "categoryToPrizeTier": {
+        "Solana": "Top",
+        "Sam": "Top",
+        "Nautical": "Top",
+        "SAMO": "Middle",
+        "GM-GN": "Middle",
+        "COPE": "Middle",
+        "Mango": "Lower",
+        "WGMI": "Lower",
+        "Bitcoin": "Lower",
+        "Generic": "Lower",
+        "Mixed": "Mixed"
+    }
 }

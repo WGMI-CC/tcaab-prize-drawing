@@ -17,3 +17,15 @@ export interface CoffeeBeerQty {
     remainingCoffee: number;
     remainingBeer: number
 }
+
+export interface PrizeSpec {
+    name: string;
+    count: number;
+}
+
+export interface WinnerSpec {
+    tier: string;
+    prize: string;
+    holder: string;
+    draw: number;
+}
